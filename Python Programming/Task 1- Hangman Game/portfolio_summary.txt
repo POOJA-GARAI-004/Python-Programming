@@ -1,0 +1,5 @@
+Stock Portfolio Summary
+AAPL: 30 shares × $180 = $5400
+TSLA: 30 shares × $250 = $7500
+GOOGL: 10 shares × $140 = $1400
+Total Investment: $14300
